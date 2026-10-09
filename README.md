@@ -168,36 +168,6 @@ I'm Thanuju N S, a Computer Science and Engineering graduate passionate about so
 
 ---
 
-## 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thanuju&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thanuju&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Thanuju/Thanuju/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
-
-</div>
-
-> **Note:** The contribution snake requires a GitHub Actions workflow to generate the animation and publish the SVG to the `output` branch. Follow the setup instructions in the official [Platane/snk repository](https://github.com/Platane/snk).
-
 ---
 
 ## 🎯 Career Goals
